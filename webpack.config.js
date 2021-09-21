@@ -116,7 +116,7 @@ module.exports = {
   devServer: {
     contentBase: buildPath,
     host: '0.0.0.0',
-    public: 'console-openshift-console.apps.sandbox.x8i5.p1.openshiftapps.com'
+    public: 'e0579285-stage.apps.sandbox.x8i5.p1.openshiftapps.com',
     port: 8080
   }
 }
